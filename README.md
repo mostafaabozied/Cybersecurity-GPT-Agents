@@ -1,10 +1,5 @@
 # ChatGPTs Agents for Cybersecurity
-<a href="https://github.com/mostafaabozied/Cybersecurity-GPT-Agents/stars">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/mostafaabozied/Cybersecurity-GPT-Agents/">
-  </a>
-  <a href="https://github.com/mostafaabozied/Cybersecurity-GPT-Agents/forks">
-    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/mostafaabozied/Cybersecurity-GPT-Agents/forks">
-  </a>
+
   
 The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community. 
 
