@@ -1,26 +1,12 @@
-# 😎 Awesome GPTs (Agents) for Cybersecurity [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# ChatGPTs Agents for Cybersecurity
 <a href="https://github.com/fr0gger/Awesome-GPT-Agents">
     <img title="Star on GitHub" src="https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents">
   </a>
-  <a href="https://github.com/fr0gger/Awesome-GPT-Agents/fork">
-    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/fr0gger/Awesome-GPT-Agents">
+  <a href="https://github.com/mostafaabozied/Cybersecurity-GPT-Agents/forks">
+    <img title="Fork on GitHub" src="https://img.shields.io/github/forks/mostafaabozied/Cybersecurity-GPT-Agents/forks">
   </a>
   
 The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a comprehensive list of GPT agents focused on cybersecurity (offensive and defensive), created by the community. 
-
-Please note, this repository is a community-driven project and may not list all existing GPT agents in cybersecurity. Contributions are welcome – feel free to add your own creations!
-
-**Disclaimer: Users should exercise caution and evaluate the agents before use. Additionaly please note that some of these GPTs are still in experimental test phase.**
-
-🌟 If you enjoy this content, consider following me: [@fr0gger_](https://x.com/fr0gger_) 
-
-## Basic Guidelines
-There is some specific keywords that trigger some actions from GPTS; here are some of them to maximize their use:
-* "Retrieve": used to retrieve some information available in the knowledge.
-* "Based on your knowledge": used to retrieve some information available in the knowledge.
-* "Generate": used to trigger code interpreter.
-* "Can you provide information on [specific topic] from the knowledge source?": To trigger the retrieval.
-* "What does the knowledge source say about [specific query]?": To trigger the retrieval.
 
 ## Cybersecurity GPTs
 * [MagicUnprotect](https://chat.openai.com/g/g-U5ZnmObzh-magicunprotect): This GPT allows to interact with the Unprotect DB to retrieve knowledge about malware evasion techniques.
