@@ -1,6 +1,6 @@
 # ChatGPTs Agents for Cybersecurity
-<a href="https://github.com/fr0gger/Awesome-GPT-Agents">
-    <img title="Star on GitHub" src="https://img.shields.io/github/stars/fr0gger/Awesome-GPT-Agents">
+<a href="https://github.com/mostafaabozied/Cybersecurity-GPT-Agents/stars">
+    <img title="Star on GitHub" src="https://img.shields.io/github/stars/mostafaabozied/Cybersecurity-GPT-Agents/">
   </a>
   <a href="https://github.com/mostafaabozied/Cybersecurity-GPT-Agents/forks">
     <img title="Fork on GitHub" src="https://img.shields.io/github/forks/mostafaabozied/Cybersecurity-GPT-Agents/forks">
@@ -147,14 +147,5 @@ The "Awesome GPTs (Agents) Repo" represents an initial effort to compile a compr
 * [RedTeamGPT](https://chat.openai.com/g/g-j8ldT0QAO-redteamgpt): Advanced guide in red teaming, pentest, attack and cybersecurity.
 * [DFIR-GPT](https://chat.openai.com/g/g-11Pfha6Uq-dfir-gpt): A GPT Agent that tries to provide Digital Forensics and Incident Response (DFIR) technical advice and guidance. 
 
-## Contributing <a href="https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors"> ![GitHub](https://img.shields.io/github/contributors/fr0gger/Awesome-GPT-Agents) </a>
-
-Want to add another cybersecurity agent. Create a pull request with the tool by following the list above. 
-
-See also the list of [contributors](https://github.com/fr0gger/Awesome-GPT-Agents/graphs/contributors) who participate in this project.
-
-## ChatGPT Plus Subscription Requirement for using _GPTS_
-
-As of `Sat Nov 11 13:02:12 UTC 2023` a **ChatGPT Plus subscription** is required for using GPT's as mentioned in [this article](https://www.theverge.com/2023/11/6/23948957/openai-chatgpt-gpt-custom-developer-platform), the [official documentation](https://openai.com/blog/introducing-gpts).
 
 ### Thanks!
